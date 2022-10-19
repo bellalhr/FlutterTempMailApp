@@ -32,7 +32,7 @@ A new Flutter project.User can be generate temporary mail address using this app
 </html>
 
 ## Apk Link 
-- [Cookbook: Demo Apk Link](https://drive.google.com/file/d/1rtS7bdSdQYN5rFfqLGGpJQtajQBIIZH9/view?usp=sharing)
+- [Demo Apk Link](https://drive.google.com/file/d/1rtS7bdSdQYN5rFfqLGGpJQtajQBIIZH9/view?usp=sharing)
 
 
 ## Libraries and packages

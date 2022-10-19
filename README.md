@@ -1,4 +1,4 @@
-# MailTMDemo
+# Flutter Temporary Mail Application
 
 A new Flutter project.User can be generate temporary mail address using this application
 

@@ -1,0 +1,4 @@
+#Wed Aug 31 14:37:27 BDT 2022
+base.0=/Volumes/My PC/Flutter(2)_Project/Client_Project/mail_tm_demo/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Volumes/My PC/Flutter(2)_Project/Client_Project/mail_tm_demo/build/path_provider_android/intermediates/merged_res/release/drawable/notification_bg_low.xml",
+        "source": "/Users/bellalhosain/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Volumes/My PC/Flutter(2)_Project/Client_Project/mail_tm_demo/build/path_provider_android/intermediates/merged_res/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/bellalhosain/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Volumes/My PC/Flutter(2)_Project/Client_Project/mail_tm_demo/build/path_provider_android/intermediates/merged_res/release/drawable/notification_icon_background.xml",
+        "source": "/Users/bellalhosain/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Volumes/My PC/Flutter(2)_Project/Client_Project/mail_tm_demo/build/path_provider_android/intermediates/merged_res/release/drawable/notification_bg.xml",
+        "source": "/Users/bellalhosain/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/drawable/notification_bg.xml"
+    }
+]

@@ -22,12 +22,10 @@ A new Flutter project.User can be generate temporary mail address using this app
 				<td>
 					<img src="https://bitbucket.org/bellalhrlux/mailtmdemo/raw/d3fca871c684f9c9e30959804897413e97555f9e/screenshots/home_with_mailbox.png" height="400px" width="200px"/>
 				</td>
-				<td>
-					<img src="https://bitbucket.org/bellalhrlux/mailtmdemo/raw/d3fca871c684f9c9e30959804897413e97555f9e/screenshots/web_and_mobile.png" height="400px" width="200px"/>
+				<td colspan="2">
+					<img src="https://bitbucket.org/bellalhrlux/mailtmdemo/raw/d3fca871c684f9c9e30959804897413e97555f9e/screenshots/web_and_mobile.png" height="280px" width="400px"/>
 				</td>
-				<td>
-					
-				</td>
+				
 			</tr>
 		</table>
 	</div>

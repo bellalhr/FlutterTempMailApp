@@ -1,4 +1,4 @@
-# MailTMDemo
+# Flutter Temporary Mail Application
 
 A new Flutter project.User can be generate temporary mail address using this application
 
@@ -9,32 +9,30 @@ A new Flutter project.User can be generate temporary mail address using this app
 		<table width="200px">
 			<tr>
 				<td>
-					<img src="https://raw.githubusercontent.com/bellalhrbubt/ERP_Dashboard/master/img/Screenshot_2019-02-22-14-51-38.png" height="400px" width="200px"/>
+					<img src="https://bitbucket.org/bellalhrlux/mailtmdemo/raw/d3fca871c684f9c9e30959804897413e97555f9e/screenshots/login.png" height="400px" width="200px"/>
 				</td>
 				<td>
-					<img src="https://github.com/bellalhrbubt/ERP_Dashboard/blob/master/img/Screenshot_2019-02-22-14-52-11.png?raw=true" height="400px" width="200px"/>
+					<img src="https://bitbucket.org/bellalhrlux/mailtmdemo/raw/d3fca871c684f9c9e30959804897413e97555f9e/screenshots/register.png" height="400px" width="200px"/>
 				</td>
 				<td>
-					<img src="https://github.com/bellalhrbubt/ERP_Dashboard/blob/master/img/Screenshot_2019-02-22-14-52-27.png?raw=true"  height="400px" width="200px"/>
+					<img src="https://bitbucket.org/bellalhrlux/mailtmdemo/raw/d3fca871c684f9c9e30959804897413e97555f9e/screenshots/home_without_empty_mailbox.png"  height="400px" width="200px"/>
 				</td>
 			</tr>
 			<tr>
 				<td>
-					<img src="https://github.com/bellalhrbubt/ERP_Dashboard/blob/master/img/Screenshot_2019-02-22-14-52-41.png?raw=true" height="400px" width="200px"/>
+					<img src="https://bitbucket.org/bellalhrlux/mailtmdemo/raw/d3fca871c684f9c9e30959804897413e97555f9e/screenshots/home_with_mailbox.png" height="400px" width="200px"/>
 				</td>
-				<td>
-					<img src="https://github.com/bellalhrbubt/ERP_Dashboard/blob/master/img/Screenshot_2019-02-22-14-52-52.png?raw=true" height="400px" width="200px"/>
+				<td colspan="2">
+					<img src="https://bitbucket.org/bellalhrlux/mailtmdemo/raw/d3fca871c684f9c9e30959804897413e97555f9e/screenshots/web_and_mobile.png" height="280px" width="400px"/>
 				</td>
-				<td>
-					<img src="https://github.com/bellalhrbubt/ERP_Dashboard/blob/master/img/Screenshot_2019-02-22-14-52-58.png?raw=true"                       height="400px" width="200px"/>
-				</td>
+				
 			</tr>
 		</table>
 	</div>
 </html>
 
 ## Apk Link 
-- [Cookbook: Demo Apk Link](https://drive.google.com/file/d/1rtS7bdSdQYN5rFfqLGGpJQtajQBIIZH9/view?usp=sharing)
+- [Demo Apk Link](https://drive.google.com/file/d/1rtS7bdSdQYN5rFfqLGGpJQtajQBIIZH9/view?usp=sharing)
 
 
 ## Libraries and packages
